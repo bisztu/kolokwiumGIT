@@ -3,3 +3,4 @@ zmiana01a
 zmiana02
 zmiana03
 zmiana03a
+zmiana04
